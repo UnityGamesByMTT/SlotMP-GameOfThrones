@@ -35,6 +35,7 @@ public class SlotBehaviour : MonoBehaviour
     [SerializeField] private Button BonusSkipWinAnimation_Button;
     [SerializeField] private Button Turbo_Button;
     [SerializeField] private Button StopSpin_Button;
+    
     [Header("Animated Sprites")]
     [SerializeField] private Sprite[] Bonus_Sprite;
     [SerializeField] private Sprite[] Cleopatra_Sprite;

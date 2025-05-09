@@ -1,0 +1,1033 @@
+fileFormatVersion: 2
+guid: 4f1a2057f966242d693033d3d8de5663
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Icons With Hovers_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4519
+        width: 410
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa6da0031f7041149a7050e8bbbd105
+      internalID: -154966999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_1
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 4519
+        width: 409
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970ff3c5751614462b6e933b5d0317bc
+      internalID: 1014309709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_2
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4519
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfff385c9732d444788003513d67fc80
+      internalID: 675922470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_3
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 4519
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08cdfce33bab4ae79841188703cef6d
+      internalID: 42430552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_4
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4050
+        width: 410
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6283867d09e35419cb101709e88536da
+      internalID: -261791588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 4050
+        width: 409
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654ddfc0284484dc493f5798fd3945d0
+      internalID: -1004448377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 4050
+        width: 408
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c4f84ede7144aeab1e2dc6e17a01b9
+      internalID: -893435806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_7
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 4050
+        width: 408
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3581e834f6ddf42f4af3c6aff7438c09
+      internalID: 2112105171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3559
+        width: 410
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cc69fb78d4d4c6c8a4d5e37b0a3a5b
+      internalID: 1562391694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_9
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3559
+        width: 409
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e368be85afc94135b8c01d263483d5d
+      internalID: 1422745234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_10
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3559
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601af91c96c334540bf7962f5742c816
+      internalID: 2094670778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_11
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 3559
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad052d8959a4674839bb4d2774238e
+      internalID: 988854376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_12
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3073
+        width: 410
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64855447dfa648a1a149e3ba071ea34
+      internalID: 1027287691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_13
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 3073
+        width: 409
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 533eff211c04446e2987cc8dfa02bc2b
+      internalID: -1036785515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_14
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 3073
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584cc92b01bb84721bf202f391bd7f97
+      internalID: -1438403035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_15
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 3073
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7548aaba69d064165af84e71a14dc917
+      internalID: 1804743510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2563
+        width: 407
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68ba88a667cfc451e8ca57d9bc5af512
+      internalID: 996544277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_17
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2563
+        width: 409
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e540015e7c274fd09c43831f715a7b7
+      internalID: 1585821353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2563
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc8f11b94c8545c79d341120513d186
+      internalID: -2091347456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_19
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2563
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d087cf3e0504fd7afb381286993b25
+      internalID: 838583778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2052
+        width: 407
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd689eb021e14b62adf96cfba77aa01
+      internalID: 1308728636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_21
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 2052
+        width: 409
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d655c770d28d54d949f805e66efae3cc
+      internalID: -1006049626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_22
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 2052
+        width: 408
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef03bd45486b941809d737b698144c55
+      internalID: -1453777173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_23
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2052
+        width: 408
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242e9727bf6cc4898bba26c877c81cfe
+      internalID: 224424166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_24
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1542
+        width: 407
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fecd0bbaa054620a3917f55447194b
+      internalID: 1669987856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_25
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1542
+        width: 409
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58af5a2ea707b4846926ec944ba99292
+      internalID: 213329121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_26
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1542
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793e3ce4bf42d4262a58c24a27735bda
+      internalID: 1496997112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_27
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1542
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b142065955bf546919acb367f61671e1
+      internalID: 1134794904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_28
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1044
+        width: 407
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e2bc4e286c1474aab169a87b667db2
+      internalID: -728709511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_29
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1044
+        width: 409
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9889c7039894b2d8b5e142c26558ed
+      internalID: -1741092424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1044
+        width: 408
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b78a1a733387a452fad5d897d118b4bf
+      internalID: -2144940406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_31
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1044
+        width: 408
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a63bd5d5da04fe895fbb36e7c2177f
+      internalID: 1635398903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_32
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 563
+        width: 407
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf27d5d78425849b19f7bce2f7660d95
+      internalID: -987563987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_33
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 563
+        width: 409
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bddbe7446f5e4fa1a66b74859505d97
+      internalID: 332998565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_34
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 563
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836aeb491e6264d17a012f7259966364
+      internalID: 1495625551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_35
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 563
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb9003ea06494ace93d2c272264f867
+      internalID: -1693942172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_36
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 72
+        width: 407
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1029e2d10f47e48b30ce091c84625
+      internalID: -2052821342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_37
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 72
+        width: 409
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4848205d9da428eacad450408e4545
+      internalID: 359734387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_38
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 72
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820af85c47b424ff4917d381240d83c3
+      internalID: 214515386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Icons With Hovers_39
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 72
+        width: 408
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8e861d5fdf64b8e8ad1f85cef31217
+      internalID: 1975962844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Game Icons With Hovers_0: -154966999
+      Game Icons With Hovers_1: 1014309709
+      Game Icons With Hovers_10: 2094670778
+      Game Icons With Hovers_11: 988854376
+      Game Icons With Hovers_12: 1027287691
+      Game Icons With Hovers_13: -1036785515
+      Game Icons With Hovers_14: -1438403035
+      Game Icons With Hovers_15: 1804743510
+      Game Icons With Hovers_16: 996544277
+      Game Icons With Hovers_17: 1585821353
+      Game Icons With Hovers_18: -2091347456
+      Game Icons With Hovers_19: 838583778
+      Game Icons With Hovers_2: 675922470
+      Game Icons With Hovers_20: 1308728636
+      Game Icons With Hovers_21: -1006049626
+      Game Icons With Hovers_22: -1453777173
+      Game Icons With Hovers_23: 224424166
+      Game Icons With Hovers_24: 1669987856
+      Game Icons With Hovers_25: 213329121
+      Game Icons With Hovers_26: 1496997112
+      Game Icons With Hovers_27: 1134794904
+      Game Icons With Hovers_28: -728709511
+      Game Icons With Hovers_29: -1741092424
+      Game Icons With Hovers_3: 42430552
+      Game Icons With Hovers_30: -2144940406
+      Game Icons With Hovers_31: 1635398903
+      Game Icons With Hovers_32: -987563987
+      Game Icons With Hovers_33: 332998565
+      Game Icons With Hovers_34: 1495625551
+      Game Icons With Hovers_35: -1693942172
+      Game Icons With Hovers_36: -2052821342
+      Game Icons With Hovers_37: 359734387
+      Game Icons With Hovers_38: 214515386
+      Game Icons With Hovers_39: 1975962844
+      Game Icons With Hovers_4: -261791588
+      Game Icons With Hovers_5: -1004448377
+      Game Icons With Hovers_6: -893435806
+      Game Icons With Hovers_7: 2112105171
+      Game Icons With Hovers_8: 1562391694
+      Game Icons With Hovers_9: 1422745234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
